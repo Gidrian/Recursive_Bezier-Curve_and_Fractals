@@ -146,7 +146,9 @@ Facilitating this README file with a pre-made template
 <!-- System -->
 ## System Information
 
-*Software
-  Linux adrbck 5.13.0-39-generic #44~20.04.1-Ubuntu SMP Thu Mar 24 16:43:35 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+#### Operating System:
+  * Linux adrbck 5.13.0-39-generic #44~20.04.1-Ubuntu SMP Thu Mar 24 16:43:35 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+#### Software:
+  * [Visual Studio Code](https://code.visualstudio.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
